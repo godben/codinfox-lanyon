@@ -1,5 +1,5 @@
 # Site Info
-title: Codinfox Lanyon
+title: godben
 tagline: 'A Jekyll theme based on Lanyon'
 description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 baseurl:
@@ -43,7 +43,7 @@ nav:
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://godben.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
